@@ -1,0 +1,66 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.6 built on Tuesday Jul 21, 2020 at 13:30:08 PDT
+---- Dump Properties ---
+Dump file: ajcore.20210730.162822.484.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.specification.version=16
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1251
+java.class.path=E:\Программы\Idea\IntelliJ IDEA 2021.1.3\lib\idea_rt.jar;E:\Программы\Idea\IntelliJ IDEA 2021.1.3\plugins\testng\lib\testng-rt.jar;C:\Users\Nikita\Desktop\AllureTest\target\test-classes;C:\Users\Nikita\Desktop\AllureTest\target\classes;C:\Users\Nikita\.m2\repository\io\qameta\allure\allure-testng\2.11.0\allure-testng-2.11.0.jar;C:\Users\Nikita\.m2\repository\io\qameta\allure\allure-java-commons\2.11.0\allure-java-commons-2.11.0.jar;C:\Users\Nikita\.m2\repository\io\qameta\allure\allure-model\2.11.0\allure-model-2.11.0.jar;C:\Users\Nikita\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\Nikita\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\Nikita\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\Nikita\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\Nikita\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\Nikita\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\Nikita\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Nikita\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Nikita\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Nikita\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Nikita\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Nikita\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Nikita\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Nikita\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Nikita\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Nikita\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Nikita\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Nikita\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Nikita\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Nikita\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar
+java.vm.vendor=Oracle Corporation
+sun.arch.data.model=64
+idea.test.cyclic.buffer.size=1048576
+user.variant=
+java.vendor.url=https://java.oracle.com/
+user.timezone=Europe/Moscow
+java.vm.specification.version=16
+os.name=Windows 10
+sun.java.launcher=SUN_STANDARD
+user.country=RU
+sun.boot.library.path=C:\Users\Nikita\.jdks\openjdk-16.0.2\bin
+sun.java.command=com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket53523 @w@C:\Users\Nikita\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\Nikita\AppData\Local\Temp\idea_testng.tmp
+jdk.debug=release
+sun.cpu.endian=little
+user.home=C:\Users\Nikita
+user.language=ru
+java.specification.vendor=Oracle Corporation
+java.version.date=2021-07-20
+java.home=C:\Users\Nikita\.jdks\openjdk-16.0.2
+file.separator=\
+java.vm.compressedOopsMode=32-bit
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+user.script=
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=16.0.2+7-67
+user.name=Nikita
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=UTF-8
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\Nikita\AppData\Local\Temp\
+java.version=16.0.2
+user.dir=C:\Users\Nikita\Desktop\AllureTest
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+java.library.path=C:\Users\Nikita\.jdks\openjdk-16.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\Nikita\Desktop\allure-2.11.0\bin;C:\Users\Nikita\AppData\Local\Microsoft\WindowsApps;C:\Users\Nikita\.dotnet\tools;E:\Программы\Idea\IntelliJ IDEA 2021.1.3\bin;;C:\Users\Nikita\Desktop\allure-2.11.0\bin;;.
+java.vm.info=mixed mode, sharing
+java.vendor=Oracle Corporation
+java.vm.version=16.0.2+7-67
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=60.0
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty
